@@ -1,0 +1,9 @@
+For this challenge, you will create a function in python that takes a
+string as input and outputs the string in reverese.
+
+Example:
+Input: "leor"
+
+Output: "roel"
+
+Good Luck!
