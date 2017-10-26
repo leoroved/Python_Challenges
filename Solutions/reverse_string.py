@@ -1,6 +1,5 @@
-def reverse_string(input_string):
-    #Insert code here
-    #Make sure to return the reversed string
+def reverse_string(text):
+    return text[::-1]
 
 
-print(reverse_string("leor")
+print(reverse_string("leor"))
